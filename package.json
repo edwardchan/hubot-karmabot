@@ -6,6 +6,7 @@
   "description": "Upvote for awesome, downvote for foolish",
   "dependencies": {
     "hubot": "^2.11.4",
+    "hubot-catfacts": "^1.0.1",
     "hubot-catme": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-heroku-keepalive": "0.0.4",
