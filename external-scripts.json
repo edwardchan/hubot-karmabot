@@ -1,4 +1,5 @@
 [
+  "hubot-cron",
   "hubot-catme",
   "hubot-diagnostics",
   "hubot-heroku-keepalive",

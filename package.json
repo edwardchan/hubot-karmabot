@@ -5,6 +5,7 @@
   "author": "brian@betaworks.com",
   "description": "Upvote for awesome, downvote for foolish",
   "dependencies": {
+    "hubot-cron": ">= 0.1.0",
     "hubot": "^2.11.4",
     "hubot-catfacts": "^1.0.1",
     "hubot-catme": "^1.0.0",
